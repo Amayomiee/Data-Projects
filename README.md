@@ -1,7 +1,7 @@
 
 # Data Projects Repository
 
-This repository contains two data projects, each with its own folder:
+This repository contains three data projects, each with its own folder:
 
 1. [Project 1](Project1-Folder/README.md): A comparative classification task for predicting customer churn 
 2. [Project 2](Project2-Folder/README.md): An analysis of historical data on NYC shootings with some useful insights
