@@ -20,23 +20,20 @@ This repository contains a detailed Power BI project developed for Maven Market,
 - Incorporated slicers, drill-downs, and cross-filtering functionality, allowing users to interact with data dynamically.
 - Utilized charts, maps, and gauges for geographical sales and returns representation as well as revenue and transaction comparisons.
 
-## Key Insights Delivered
-- Real-time assessment of customer demographics, aiding targeted marketing strategies.
-- Inventory optimization through 'Sales by Product' insights, reducing overstock and stockouts.
-- Comparative sales analysis, highlighting underperforming regions for strategic realignment.
-- Dynamic '60-Day Revenue' measure aiding in short-term financial planning and forecasting.
-- Profitability analysis by product category, guiding resource allocation, and promotional efforts.
-
-## Repository Contents
-- ## Repository Contents
-
-- [`Maven-Market-CSV-Files.zip`](./Maven-Market-CSV-Files.zip): A zip file containing all raw CSV files used in this project. Click to download and access the data necessary for the Power BI reports.
-- `MavenMarket Project Report.pbix`: The complete Power BI report file with interactive dashboards and detailed analytics
-
+## Repository Content
+- `111 - Maven-Market-CSV-Files.Zip/`: Folder containing all raw CSV files.
+- `MavenMarket Project Report.pbix`: The complete Power BI report file with interactive dashboards and detailed analytics.
+- `README.md`: Detailed documentation of this project.
 
 ## Tools Used
 - **Microsoft Power BI**: For data consolidation, transformation, and interactive dashboard creation.
 - **DAX**: For advanced analytical calculations and measures in the Power BI model.
 
 ## Conclusion
-This project serves as a comprehensive business intelligence solution for Maven Market, employing advanced analytics to transform raw sales data into actionable insights. Through interactive data visualizations, Maven Market's stakeholders can make informed, data-driven decisions to steer company direction, optimize operations, and boost financial performance.
+This project offered a comprehensive business intelligence solution for Maven Market, employing advanced analytics to transform raw sales data into useful insights. Through interactive data visualizations, Maven Market's stakeholders can make informed, data-driven decisions and also optimize opeartions to steer the company in the right direction.
+
+## Credits
+
+Data and tools utilized in this project were sourced from Maven Analytics. For more on Maven Analytics, please visit their [website](https://mavenanalytics.io/)
+
+
