@@ -28,7 +28,9 @@ This repository contains a detailed Power BI project developed for Maven Market,
 - Profitability analysis by product category, guiding resource allocation, and promotional efforts.
 
 ## Repository Contents
-- `111 - Maven-Market-CSV-Files.zip/`: Folder containing all raw CSV files used in this project.
+- ## Repository Contents
+
+- [`Maven-Market-CSV-Files.zip`](./Maven-Market-CSV-Files.zip): A zip file containing all raw CSV files used in this project. Click to download and access the data necessary for the Power BI reports.
 - `MavenMarket Project Report.pbix`: The complete Power BI report file with interactive dashboards and detailed analytics
 
 
