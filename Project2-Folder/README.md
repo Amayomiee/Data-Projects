@@ -2,11 +2,11 @@
 
 ## Overview
 
-This project delves into New York City's historic shooting dataset to extract valuable insights. This project not only enhances our comprehension of historical shooting incidents in New York City but also highlights the value of data-driven insights in shaping a safer and more secure urban environment. The findings from this analysis can inform strategies to reduce and prevent future shooting incidents, making the city a better place for all its residents. The dataset has been dissected by utilizing advanced statistical techniques and data analysis tools, revealing interesting patterns and laying the foundation for rigorous hypothesis testing.
+This project delves into New York City's historic shooting dataset to extract valuable insights. This project not only enhances our comprehension of historical shooting incidents in New York City but also highlights the value of data-driven insights in shaping a safer and more secure urban environment. The findings from this analysis can inform strategies to reduce and prevent future shooting incidents, making the city a better place for all its residents. The dataset has been dissected by utilizing advanced statistical techniques and data analysis tools, revealing interesting patterns and laying the foundation for comprehensive hypothesis testing.
 
 ## Key Highlights
 
-- **Temporal Analysis:** We explore the temporal dimension, observing the evolution of shooting incidents over time. This includes identifying trends and detecting any seasonality in the data.
+- **Temporal Analysis:** We explore the temporal dimension, observing the patterns of shooting incidents over time. This includes identifying trends and detecting any seasonality in the data.
 
 - **Spatial Analysis:** We uncover geographical nuances, with a focus on identifying shooting hotspots as well as cold zones. This analysis enables a deeper understanding of how the urban landscape influences shooting incidents.
 
