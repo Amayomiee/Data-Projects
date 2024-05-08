@@ -17,7 +17,8 @@ As part of a virtual internship program, I conducted a data analysis project for
    - Determined the top 5 performing content categories.
    - Provided additional insights such as the number of unique categories, reactions to the most popular category, and the month with the most posts.
 
-The project ended in a spreadsheet containing a cleaned dataset and the top 5 content categories, along with simple visual insights for presentation to client. This project shows my data cleaning skills, understanding of Excel functions (VLOOKUP, SUMIF and COUNTIFS), and ability to derive useful insights from complex datasets to drive decision-making.
+The project ended in a spreadsheet containing a cleaned dataset and the top 5 content categories, along with simple visual insights for presentation to client. This project shows my understanding of data cleaning, Excel functions (VLOOKUP, SUMIF and COUNTIFS), and an ability to derive useful insights from complex datasets to drive decision-making.
 
-The file "Final reactions Table" contains [project folder](link_to_project_folder) more details.
+The spreadsheet [Final Reactions Table.csv](Project5-Folder/Final%20Reactions%20Table.csv) contains more details of this project. 
+
 
