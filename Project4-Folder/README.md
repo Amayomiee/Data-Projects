@@ -13,12 +13,12 @@ This repository contains a detailed Power BI project developed for Maven Market,
 **Analytics and Measures:**
 - Devised several analytical measures (Total transactions, All returns, Total cost, etc.) using DAX to provide a multi-dimensional view of business operations.
 - Applied time intelligence functions to analyze performance metrics over varying periods.
-- Evaluated running totals and moving averages, crucial for understanding sales momentum and inventory demands.
+- Evaluated running totals and moving averages, important for understanding sales momentum and inventory demands.
 
 **Interactive Reporting and Visualizations:**
 - Constructed an interactive Power BI dashboard covering key performance indicators.
-- Incorporated slicers, drill-downs, and cross-filtering functionality, allowing users to interact with data dynamically.
-- Utilized charts, maps, and gauges for geographical sales and returns representation as well as revenue and transaction comparisons.
+- Incorporated slicers, drill-downs, and cross-filtering functionalities, allowing users to interact with data.
+- Employed charts, maps, and gauges for geographical sales and returns representation as well as revenue and transaction comparisons.
 
 ## Repository Content
 - `111 - Maven-Market-CSV-Files.Zip/`: Folder containing all raw CSV files.
@@ -30,7 +30,7 @@ This repository contains a detailed Power BI project developed for Maven Market,
 - **DAX**: For advanced analytical calculations and measures in the Power BI model.
 
 ## Conclusion
-This project offered a comprehensive business intelligence solution for Maven Market, employing advanced analytics to transform raw sales data into useful insights. Through interactive data visualizations, Maven Market's stakeholders can make informed, data-driven decisions and also optimize opeartions to steer the company in the right direction.
+This project offered a comprehensive business intelligence solution for Maven Market, employing advanced analytics to transform raw sales data into useful insights. Maven Market's stakeholders can make informed, data-driven decisions and also optimize opeartions to steer the company in the right direction.
 
 ## Credits
 
