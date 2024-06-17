@@ -2,15 +2,15 @@
 
 ## Overview
 
-This project involves a comparative analysis of different classification algorithms, including Support Vector Machines (SVM), Decision Trees, and Random Forests, in predicting customers at risk of churning.
+This project explored a comparative analysis of different classification algorithms, including Support Vector Machines (SVM), Decision Trees, and Random Forests, in predicting customers at risk of churning for a credit card company.
 
 ## Project Objectives
 
-- **Data Exploration:** Conduct an in-depth exploration of customer data, including demographics, transaction history, credit usage patterns, and quarter-to-quarter changes.
+- **Data Exploration:** Conducted a comprehensive exploration of customer data, including demographics, transaction history, credit usage patterns, and quarter-to-quarter changes.
 
-- **Model Building:** Develop predictive models using classification algorithms to forecast customer churn accurately.
+- **Model Building:** Developed predictive models using the aforementioned classification algorithms to predict customer churn.
 
-- **Actionable Insights:** Provide actionable insights derived from the models to enable proactive retention strategies, enhance customer satisfaction, and optimize resource allocation.
+- **Model Evaluation and implementation:** comparatively evaluated the results from each model, applying various model evaluation techniques and recommending the best model for customer churn prediction.
 
 ## Why Customer Churn Prediction?
 
@@ -33,7 +33,7 @@ Customer churn prediction is vital for businesses to retain valuable customers. 
 The comparative analysis will aid in selecting the best model for efficient churn prediction and contribute to informed decision-making for customer-centered strategies. The project emphasizes the importance of data-driven insights in retaining and satisfying customers.
 
 
-## Data Sources
+## Data Source
 
 - [Kaggle](https://www.kaggle.com/datasets/thedevastator/predicting-credit-card-customer-attrition-with-m)
 
